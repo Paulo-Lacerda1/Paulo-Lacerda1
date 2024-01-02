@@ -1,16 +1,13 @@
-### Hi there 👋
+## Bem vindo! 🖐️
 
-<!--
-**Paulo-Lacerda1/Paulo-Lacerda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_paulo_lacerda1)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://paulolacerda652.notion.site/UA-1-ano-3847cc93c6694248bf0b41f8c249bca3?pvs=4)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/PL_12/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Paulo-Lacerda1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green)
+
+![Paulo-Lacerda1 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green)
+
+![Snake animation](https://github.com/Paulo-Lacerda1/Paulo-Lacerda1/blob/output/github-contribution-grid-snake.svg)
+

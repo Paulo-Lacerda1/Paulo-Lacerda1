@@ -7,6 +7,6 @@
 
 ![Paulo-Lacerda1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green)
 
-![Paulo-Lacerda1 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda11&theme=blue-green)
+![Paulo-Lacerda1 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green)
 
 

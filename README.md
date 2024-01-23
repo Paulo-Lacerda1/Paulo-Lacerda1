@@ -9,3 +9,17 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+```bash
+import ☕ and 🍺
+
+user = "👦🏻"
+
+if ☕ < 0:
+  user = "⚰️"
+elif 🍺 < 0:
+  user = "😞"
+else:
+  user = "😁"
+
+print(user)
+```

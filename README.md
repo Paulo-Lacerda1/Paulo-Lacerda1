@@ -9,4 +9,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![snake gif](https://github.com/Paulo-Lacerda1/Paulo-Lacerda1/blob/output/github-contribution-grid-snake.svg)

@@ -7,7 +7,7 @@
 ## 📈 GitHub Stats:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 480px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 350px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 360px;">
 </div>
 
 

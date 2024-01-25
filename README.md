@@ -5,9 +5,14 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://paulolacerda652.notion.site/UA-1-ano-3847cc93c6694248bf0b41f8c249bca3?pvs=4)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/PL_12/)
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 356px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Lacerda1&theme=blue-green&hide_border=true" alt="GitHub Streak" style="width: 376px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 269px;">
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ```bash
 import ☕ and 🍺

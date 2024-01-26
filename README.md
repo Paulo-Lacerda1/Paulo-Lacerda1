@@ -10,7 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 478px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 364px;">
 </div>
-
+<p align="left">
+        <img align="center" style="width: 100%;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpmcG53aGx3cXAxZDYxN3MwaTJtNHVhMW5ic2xwaWJ5aXF0MTJweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c9aZp1qZ38AFO/giphy.gif" alt="GIF">
+</p>
 
 
 ```bash

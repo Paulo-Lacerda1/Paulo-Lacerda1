@@ -1,6 +1,6 @@
 <!--Bem-vindo -->
 <div align="left">
-<h1>Bem-vindo! <img style="width:50px" src="https://i.pinimg.com/originals/13/3b/8d/133b8de6221751768ff052f235cb7199.gif"></h1>
+<h1>Bem-vindo! 👋🏼</h1>
 </div>
 <!--GIF-->
 <p align="left">

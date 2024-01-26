@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
 <!--Bem-vindo -->
 <h1>Bem-vindo! 🖐️</h1>
 
@@ -13,8 +5,6 @@
 <p align="left">
     <img style="width: 1080px; height: 320px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpmcG53aGx3cXAxZDYxN3MwaTJtNHVhMW5ic2xwaWJ5aXF0MTJweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c9aZp1qZ38AFO/giphy.gif" alt="GIF">
 </p>
-
-
 
 <!--Links -->
 ## 🔗 Links
@@ -30,18 +20,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 478px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 364px;">
 </div>
-
-<!-- Seção Código Bash -->
-```bash
-import ☕ and 🍺
-
-user = "👦🏻"
-
-if ☕ < 0:
-  user = "⚰️"
-elif 🍺 < 0:
-  user = "😞"
-else:
-  user = "😁"
-
-print(user)

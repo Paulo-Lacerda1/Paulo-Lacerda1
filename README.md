@@ -1,6 +1,7 @@
 <!--Bem-vindo -->
-<h1>Bem-vindo! 🖐️</h1>
-
+<div align="center">
+<h1>Bem-vindo!</h1>
+</div>
 <!--GIF-->
 <p align="left">
     <img style="width: 1080px; height: 320px;" src="GIF-1.gif" alt="GIF">

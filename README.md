@@ -11,7 +11,7 @@
 
 <!--GIF-->
 <p align="left">
-    <img style="width: 1080px; height: 350px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpmcG53aGx3cXAxZDYxN3MwaTJtNHVhMW5ic2xwaWJ5aXF0MTJweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c9aZp1qZ38AFO/giphy.gif" alt="GIF">
+    <img style="width: 1080px; height: 320px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpmcG53aGx3cXAxZDYxN3MwaTJtNHVhMW5ic2xwaWJ5aXF0MTJweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c9aZp1qZ38AFO/giphy.gif" alt="GIF">
 </p>
 
 

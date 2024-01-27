@@ -25,6 +25,6 @@
 </div>
 
 <!--Discord-->
-## <a href="https://emoji.gg/emoji/4929-discord"><img src="https://cdn3.emoji.gg/emojis/4929-discord.png" width="30px" height="30px" alt="Discord"></a> Discord
+## <a href="https://emoji.gg/emoji/4929-discord"><img src="https://cdn3.emoji.gg/emojis/4929-discord.png" width="27px" height="27px" alt="Discord"></a> Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/503621694087233549)](https://discord.com/users/503621694087233549)

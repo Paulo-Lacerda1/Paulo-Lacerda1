@@ -1,9 +1,10 @@
 <!--Bem-vindo -->
-<div align="left">
-<h1>Bem-vindo! 👋🏼</h1>
+<div style="text-align: left;">
+    <h1>Bem-vindo! 👋🏼</h1>
 </div>
+
 <!--GIF-->
-<p align="left">
+<p style="text-align: left;">
     <img style="width: 1080px; height: 320px;" src="GIF-1.gif" alt="GIF">
 </p>
 
@@ -19,6 +20,11 @@
 <!--GitHub Stats -->
 ## 📈 GitHub Stats:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 478px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 364px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 478px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 364px;">
 </div>
+
+<!--Discord-->
+## <a href="https://emoji.gg/emoji/4929-discord"><img src="https://cdn3.emoji.gg/emojis/4929-discord.png" width="30px" height="30px" alt="Discord"></a> Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/503621694087233549)](https://discord.com/users/503621694087233549)

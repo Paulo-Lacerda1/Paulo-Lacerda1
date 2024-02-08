@@ -3,11 +3,10 @@
     <h1>Bem-vindo! 👋🏼</h1>
 </div>
 
-<!-- GIF
+<!-- GIF-->
 <p style="text-align: left;">
     <img style="width: 1080px; height: 320px;" src="GIF-1.gif" alt="GIF">
 </p>
--->
 
 <!--Links -->
 ## 🔗 Links

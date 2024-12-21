@@ -3,17 +3,10 @@
     <h1>Welcome! 👋🏼</h1>
 </div>
 
-<!-- GIF-->
+<!-- GIF
 <p style="text-align: left;">
     <img style="width: 1080px; height: 320px;" src="GIF-1.gif" alt="GIF">
-</p>
-
-<!--Links -->
-## 🔗 Links
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_paulo_lacerda_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-lacerda-/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paulolacerda@ua.pt)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulolacerda652@gmail.com)
+</p>-->
 
 <!--GitHub Stats -->
 ## 📈 GitHub Stats:
@@ -21,6 +14,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 478px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lacerda1&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 364px;">
 </div>
+
+<!--Links -->
+## 🔗 Links
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_paulo_lacerda_/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-lacerda-/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paulolacerda@ua.pt)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulolacerda652@gmail.com)
 
 <!--Discord-->
 ## <a href="https://emoji.gg/emoji/4929-discord"><img src="https://cdn3.emoji.gg/emojis/4929-discord.png" width="27px" height="27px" alt="Discord"></a> Discord
